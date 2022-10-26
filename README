@@ -7,6 +7,7 @@ Describe the employee model
 -- a set of main attributes (id, name ...etc)
 -- personal data
 
+
 ```/src/services/staff_service.js```
 Implement some methods of working with the employee database
 -- search by main attributes, personal data
